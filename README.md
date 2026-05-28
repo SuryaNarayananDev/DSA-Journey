@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
