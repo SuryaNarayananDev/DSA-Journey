@@ -45,13 +45,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
