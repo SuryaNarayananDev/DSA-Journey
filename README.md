@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0203-remove-linked-list-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
