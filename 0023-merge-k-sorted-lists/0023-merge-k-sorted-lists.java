@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
+        if(lists.length < 1 ) return null;
         List<Integer> list = new ArrayList<>();
         for(ListNode head : lists){
             ListNode curr = head;
