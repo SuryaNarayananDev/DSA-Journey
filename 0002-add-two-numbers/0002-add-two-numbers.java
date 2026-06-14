@@ -22,7 +22,7 @@ class Solution {
                 carry = sum/10;
                 curr.next = newNode;
             }else{
-                ListNode newNode = new ListNode(sum%10);
+                ListNode newNode = new ListNode(sum);
                 carry = 0;
                 curr.next = newNode;
             }
@@ -38,7 +38,7 @@ class Solution {
                 carry = sum/10;
                 curr.next = newNode;
             }else{
-                ListNode newNode = new ListNode(sum%10);
+                ListNode newNode = new ListNode(sum);
                 carry = 0;
                 curr.next = newNode;
             }
@@ -53,7 +53,7 @@ class Solution {
                 carry = sum/10;
                 curr.next = newNode;
             }else{
-                ListNode newNode = new ListNode(sum%10);
+                ListNode newNode = new ListNode(sum);
                 carry = 0;
                 curr.next = newNode;
             }
