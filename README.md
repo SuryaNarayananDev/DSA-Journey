@@ -74,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
