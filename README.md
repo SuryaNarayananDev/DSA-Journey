@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [3612-process-string-with-special-operations-i](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
