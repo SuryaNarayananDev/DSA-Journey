@@ -12,7 +12,7 @@ class Solution {
     public ListNode rotateRight(ListNode head, int k) {
 
         // Empty list or no rotation needed
-        if(head == null || k == 0) return head;
+        if(head == null || k == 0 || head.next == null) return head;
 
         ListNode curr = head;
 
