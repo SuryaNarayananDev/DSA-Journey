@@ -29,6 +29,7 @@ class Solution {
                     firstHead = false;
                 }else{
                     before.next = reverseHead;
+                    
                 }
                 start.next = next;
                 before = start;
