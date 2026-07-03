@@ -1,26 +1,27 @@
 class Solution {
     public int myAtoi(String s) {
-        int result=0;
-        int sign=1;
         int i=0;
-        int n=s.length();
-        
+        int n =s.length();
         while(i<n && s.charAt(i)==' ') i++;
-
+        int sign = 1;
         if(i<n && (s.charAt(i)=='+' || s.charAt(i)=='-')){
-            sign=s.charAt(i)=='+'?1:-1;
+            sign = s.charAt(i)=='+'?1:-1;
             i++;
-        }
+        }   
+        
+        return recursive(s,i,0,sign);
 
-        while(i<n && Character.isDigit(s.charAt(i))){
-            int digit=s.charAt(i)-'0';
-            if(result>(Integer.MAX_VALUE-digit)/10){
-                return sign==1?Integer.MAX_VALUE:Integer.MIN_VALUE;
-            }
+    }
 
-            result=result*10+digit;
-            i++;
-        }
-        return sign*result;
+    public int recursive(String s,int i,long num,int sign){
+        if(i>=s.length() || !Character.isDigit(s.charAt(i)))
+            return (int) num*sign;
+        
+        num = num * 10 + (s.charAt(i)-'0'); 
+        i++;
+        if(num*sign >= Integer.MAX_VALUE)    return Integer.MAX_VALUE;
+        if(num*sign <= Integer.MIN_VALUE)    return Integer.MIN_VALUE;
+
+        return recursive(s,i,num,sign);
     }
 }
