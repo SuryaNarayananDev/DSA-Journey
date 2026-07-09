@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/SuryaNarayananDev/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
